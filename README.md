@@ -36,5 +36,5 @@ então esse portfólio e os projetos sempre serão atualizados para que possam s
 ## Contato
 
 - Github: https://github.com/LuizCastroDZ
-- Linkedin: https://github.com/LuizCastroDZ
+- Linkedin: [https://github.com/LuizCastroDZ](https://www.linkedin.com/in/luizcastro100/)https://www.linkedin.com/in/luizcastro100/
 - E-mail: luizfernandocampeao1999@gmail.com
