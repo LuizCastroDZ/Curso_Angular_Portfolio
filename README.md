@@ -6,7 +6,7 @@
   - [O Projeto](#o-projeto)
 - [Links](#links)
 - [Meu processo](#meu-processo)
-  - [Tecnologias](#tecnologias-usadas)
+  - [Tecnologias](#tecnologias-utilizadas)
 - [Contato](#contato)
 
 ## Visão Geral
@@ -25,7 +25,7 @@ então esse portfólio e os projetos sempre serão atualizados para que possam s
 
 ## Meu processo
 
-### Tecnologias utilizados
+### Tecnologias utilizadas
 
 - HTML
 - CSS
